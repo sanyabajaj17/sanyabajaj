@@ -1,0 +1,307 @@
+.welcome {
+  position: absolute;
+  top: 0;
+  left: 43.46%;
+  letter-spacing: -0.01em;
+  line-height: 72px;
+}
+.the-largest-community-of-photo {
+  position: absolute;
+  top: 162px;
+  left: -60px;
+  width: 1392px;
+  height: 72px;
+  text-align: center;
+  font-size: var(--font-size-13xl);
+  color: var(--color-darkslategray-100);
+  font-family: var(--body-h4);
+}
+.rectangle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-gainsboro-400);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 518px;
+  height: 365.6px;
+}
+.log-in-to {
+  position: absolute;
+  top: 53.3px;
+  left: 53.3px;
+  font-size: var(--body-h4-size);
+  letter-spacing: -0.01em;
+  line-height: 36px;
+  display: inline-block;
+  color: var(--color-darkslategray-100);
+  width: 464.7px;
+  height: 29.98px;
+}
+.button-child {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-forestgreen-100);
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-7xs);
+}
+.register {
+  position: absolute;
+  top: 21.5%;
+  left: 28%;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+}
+.button,
+.group-child {
+  position: absolute;
+  border-radius: var(--br-xl);
+  height: 33.31px;
+}
+.button {
+  top: 254.84px;
+  left: 58.3px;
+  width: 108.26px;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--color-white);
+}
+.group-child {
+  cursor: pointer;
+  border: 1px solid var(--color-white);
+  padding: 0;
+  background-color: var(--color-gainsboro-500);
+  top: 112.43px;
+  left: 53.3px;
+  box-sizing: border-box;
+  width: 411.4px;
+}
+.email-address {
+  position: absolute;
+  top: 119.09px;
+  left: 64.96px;
+  letter-spacing: -0.01em;
+  line-height: 24px;
+  display: inline-block;
+  width: 185.71px;
+  height: 19.99px;
+}
+.group-item {
+  cursor: pointer;
+  border: 1px solid var(--color-white);
+  padding: 0;
+  background-color: var(--color-gainsboro-500);
+  position: absolute;
+  top: 183.22px;
+  left: 53.3px;
+  border-radius: var(--br-xl);
+  box-sizing: border-box;
+  width: 411.4px;
+  height: 33.31px;
+}
+.dont-have-an,
+.enter-password,
+.forgot-password {
+  position: absolute;
+  letter-spacing: -0.01em;
+  line-height: 24px;
+  display: inline-block;
+}
+.enter-password {
+  top: 189.88px;
+  left: 64.96px;
+  width: 185.71px;
+  height: 19.99px;
+}
+.dont-have-an,
+.forgot-password {
+  color: var(--color-darkslategray-300);
+}
+.dont-have-an {
+  text-decoration: none;
+  top: 301px;
+  left: 58px;
+  width: 283px;
+  height: 20px;
+  cursor: pointer;
+}
+.forgot-password {
+  top: 222.36px;
+  left: 64.96px;
+  font-size: var(--font-size-3xs);
+  width: 214.03px;
+  height: 19.99px;
+}
+.green-pahal,
+.group {
+  position: absolute;
+  top: 253px;
+  left: 396px;
+  width: 518px;
+  height: 365.6px;
+  font-size: var(--font-size-xs);
+  color: var(--color-darkslategray-200);
+  font-family: var(--body-h4);
+}
+.green-pahal {
+  top: 61px;
+  left: 132px;
+  font-size: var(--font-size-13xl);
+  font-weight: 900;
+  font-family: var(--font-swis721-blk-bt);
+  color: var(--color-green);
+  display: inline-block;
+  width: 298px;
+  height: 45px;
+}
+.home,
+.scrap-rates,
+.stationery {
+  text-decoration: none;
+  position: absolute;
+  top: 63.05px;
+  left: 726.71px;
+  color: inherit;
+  display: inline-block;
+  width: 120px;
+  height: 20px;
+  cursor: pointer;
+}
+.home,
+.stationery {
+  top: 63px;
+  left: 847px;
+  width: 104px;
+}
+.home {
+  top: 62px;
+  left: 636px;
+  width: 72.41px;
+  height: 19.48px;
+}
+.image-10-icon {
+  position: absolute;
+  top: 36px;
+  left: 24px;
+  width: 81px;
+  height: 81px;
+  object-fit: cover;
+}
+.group-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-xl);
+  background-color: var(--color-forestgreen-200);
+  width: 162.64px;
+  height: 47.01px;
+}
+.schedule-pickup {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 13.16px;
+  left: 19.74px;
+  font-size: var(--font-size-base);
+  font-family: var(--font-artifakt-element);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 133.5px;
+  height: 19.74px;
+}
+.rectangle-parent {
+  text-decoration: none;
+  position: absolute;
+  top: 51.04px;
+  left: 1072.36px;
+  width: 162.64px;
+  height: 47.01px;
+}
+.my-account,
+.wireframe-5 {
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-300);
+  font-family: var(--font-artifakt-element);
+}
+.my-account {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 63px;
+  left: 954px;
+  display: inline-block;
+  width: 104px;
+  height: 20px;
+}
+.wireframe-5 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 690px;
+  overflow: hidden;
+}
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-artifakt-element: "Artifakt Element";
+  --font-swis721-blk-bt: "Swis721 Blk BT";
+  --body-h4: Montserrat;
+  --font-anton: Anton;
+  --font-inter: Inter;
+  --font-larken-demo: "Larken DEMO";
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-13xl: 32px;
+  --font-size-3xs: 10px;
+  --font-size-xs: 12px;
+  --font-size-mini: 15px;
+  --body-h4-size: 24px;
+  --font-size-xl: 20px;
+  --font-size-45xl: 64px;
+  --font-size-smi: 13px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: rgba(0, 0, 0, 0.26);
+  --color-gray-200: rgba(30, 30, 30, 0.75);
+  --color-gray-300: rgba(0, 0, 0, 0.76);
+  --color-forestgreen-100: #66ab30;
+  --color-forestgreen-200: rgba(102, 171, 48, 0.77);
+  --color-green: #0aa11e;
+  --color-darkslategray-100: #292d32;
+  --color-darkslategray-200: rgba(41, 45, 50, 0.37);
+  --color-darkslategray-300: rgba(41, 45, 50, 0.59);
+  --color-gainsboro-100: #d9d9d9;
+  --color-gainsboro-200: rgba(231, 231, 231, 0.49);
+  --color-gainsboro-300: rgba(217, 217, 217, 0.38);
+  --color-gainsboro-400: rgba(217, 217, 217, 0.17);
+  --color-gainsboro-500: rgba(217, 217, 217, 0.4);
+  --color-olivedrab: #4c8223;
+  --color-whitesmoke: #f3f3f3;
+
+  /* border radiuses */
+  --br-xl: 20px;
+  --br-7xs: 6px;
+  --br-3xs: 10px;
+  --br-8xs: 5px;
+  --br-11xs: 2px;
+}
